@@ -3,7 +3,7 @@ import {View, Text, StyleSheet} from 'react-native';
 
 const SearchScreen=()=>{
     return <View>
-        <Text>THis is Seach bar Screen</Text>
+        <Text>THis is Seach bar Screens baby</Text>
     </View>
 }
 
